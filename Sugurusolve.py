@@ -2,6 +2,7 @@
 Version 1 - Initial coding
 Version 2 - Modified to handle 5,6,7,8 square sided puzzles
 Version 3 - remove unnecessary global statements
+
 This module is imported by the Suguru Solver
 which calls the puzzle_solve(puzzle_array) function to solve the puzzle.
 'puzzle_array' is a list of dictionary items that decribe the Suguru puzzle

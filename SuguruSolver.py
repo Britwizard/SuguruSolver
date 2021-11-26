@@ -16,6 +16,7 @@ Version 9 - Remove mutable global data types (lists) and immutable global dataty
 Version 10- Save and Load puzzle array as json formatted data file
 Version 11- Bug fix -When using 'askyesno' messagebox set default to 'no' to force choice of yes.
 Version 12- Change location of saved Suguru puzzles from current working directory to Appdata\SuguruSolver folder
+
 '''
 
 from tkinter import *    # this does not load all of tkinter - it does not load the ttk modules or messagebox for instance
